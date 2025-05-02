@@ -24,6 +24,7 @@ export default function Login() {
   const [hide, setHide] = useState('hide');
   const [open, setOpen] = useState(false);
   const handleClose = () => setOpen(false);
+  const navigate = useNavigate();
   const dispatch = useDispatch();
   const {
     register,
@@ -150,14 +151,14 @@ export default function Login() {
                 }
               />
               <Typography className="opacity-80 flex items-center text-secondary justify-end">
-                <a
-                  href="/forgot-password"
-                  className="opacity-100 font-semibold"
+                <span
+                  onClick={() => navigate('/forgot-password')}
+                  className="opacity-100 cursor-pointer font-semibold"
                 >
                   <Typography level="captionsm" className="opacity-100">
                     Forgot password?
                   </Typography>
-                </a>
+                </span>
               </Typography>
             </div>
 
