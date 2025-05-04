@@ -1,0 +1,59 @@
+# GIỚI THIỆU HỆ THỐNG LINKVERSE - NỀN TẢNG MẠNG XÃ HỘI HIỆN ĐẠI
+
+## 🚀 LinkVerse là gì?
+LinkVerse là một mạng xã hội thông minh được xây dựng với mục tiêu **kết nối con người**, **chia sẻ nội dung**, và **tận dụng trí tuệ nhân tạo (AI)** để mang lại trải nghiệm cá nhân hóa tối ưu. Người dùng có thể **giao tiếp**, **chia sẻ bài viết**, **xem video**, **tham gia vào cộng đồng** và nhiều hơn thế.
+
+---
+
+## 🔥 Các tính năng chính của LinkVerse
+
+### 1️⃣ KẾT NỐI VÀ GIAO TIẾP
+- **Bảng tin thời gian thực**: Hiển thị các bài viết mới nhất từ bạn bè và những người bạn theo dõi.
+- **Tương tác bài viết**: Like, comment, share, lưu bài viết.
+- **Hệ thống chat nâng cao**: Nhắn tin văn bản, gửi ảnh, video, voice chat, và tin nhắn bảo mật.
+
+### 2️⃣ HỆ THỐNG AI THÔNG MINH
+- **Đề xuất nội dung cá nhân hóa**: AI học hỏi thói quen của bạn để gợi ý nội dung phù hợp nhất.
+- **Tự động dịch ngôn ngữ**: Dịch bài viết sang ngôn ngữ bạn sử dụng.
+- **Phân tích cảm xúc bài viết**: Hệ thống AI giúp hiểu rõ nội dung đang truyền tải.
+
+### 3️⃣ QUẢN LÝ NHÓM & TRANG CÁ NHÂN
+- **Tạo nhóm & quản lý thành viên**: Thiết lập nhóm công khai hoặc riêng tư.
+- **Quản lý trang cá nhân**: Cập nhật trạng thái, hình ảnh, thông tin cá nhân dễ dàng.
+
+### 4️⃣ BẢO MẬT & QUYỀN RIÊNG TƯ
+- **Xác thực hai yếu tố (2FA)**: Bảo vệ tài khoản trước hacker.
+- **Quản lý quyền riêng tư**: Kiểm soát ai có thể xem bài viết, tin nhắn và thông tin cá nhân của bạn.
+
+---
+
+## 🎯 Vì sao nên chọn LinkVerse?
+✅ **Giao diện thân thiện**: Dễ sử dụng cho mọi người dùng.  
+✅ **AI hỗ trợ thông minh**: Đề xuất nội dung, kiểm duyệt bài viết, bảo vệ người dùng.  
+✅ **Tốc độ nhanh, bảo mật cao**: Cơ sở hạ tầng mạnh mẽ, đảm bảo an toàn dữ liệu.  
+✅ **Hỗ trợ nhiều ngôn ngữ**: Hệ thống có thể sử dụng tiếng Việt và tiếng Anh.  
+
+---
+
+## ⚙️ Công nghệ sử dụng trong LinkVerse
+🔹 **Backend**: Spring Boot, Java, PostgreSQL, MongoDB, Kafka.  
+🔹 **Frontend**: ReactJS, Next.js, TailwindCSS.  
+🔹 **AI & Machine Learning**: Google Gemini AI, OpenAI, TensorFlow.  
+🔹 **Hệ thống thanh toán**: VNPay, Stripe, PayPal.  
+🔹 **Hệ thống lưu trữ & bảo mật**: AWS S3, Firebase, OAuth2.  
+
+---
+
+## 🔧 Cách sử dụng LinkVerse
+1️⃣ **Đăng ký tài khoản** bằng Email hoặc số điện thoại.  
+2️⃣ **Cập nhật trang cá nhân**, thêm ảnh đại diện và thông tin cá nhân.  
+3️⃣ **Kết bạn, theo dõi**, và bắt đầu tương tác với bảng tin.  
+4️⃣ **Đăng bài viết**, chia sẻ hình ảnh, video, sự kiện.  
+5️⃣ **Tham gia nhóm**, bình luận, nhắn tin và trò chuyện với bạn bè.  
+
+---
+
+## 📞 LIÊN HỆ HỖ TRỢ:
+📧 **Email:** duongng.dn@gmail.com  
+🌐 **Website:** [www.gitted.me](http://www.gitted.me)
+

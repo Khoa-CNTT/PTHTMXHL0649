@@ -1,0 +1,16 @@
+Quy Trình Hoạt Động:
+Tạo Bài Viết:
+
+Người dùng gửi yêu cầu tạo bài viết cùng với các tệp hình ảnh.
+Hệ thống kiểm tra nội dung bài viết trước. Nếu có vấn đề, trả về thông báo lỗi.
+Tải Tệp Hình Ảnh Lên S3:
+
+Các tệp hình ảnh được tải lên S3 và các URL của chúng được lưu lại trong bài viết.
+Kiểm Tra An Toàn Hình Ảnh:
+
+Nếu hình ảnh không an toàn (vi phạm chính sách), hệ thống lưu thông tin vi phạm vào ImageViolation, xóa hình ảnh khỏi S3 và đánh dấu bài viết có vi phạm.
+Cập Nhật Bài Viết và Vi Phạm:
+
+Bài viết sẽ được cập nhật trạng thái (có vi phạm) và lưu lại thông tin vào cơ sở dữ liệu.
+Dọn Dẹp Vi Phạm (Scheduled Task):
+ //Dang xu ly phan csdl

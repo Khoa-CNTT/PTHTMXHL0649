@@ -1,0 +1,220 @@
+# HƯỚNG DẪN HỖ TRỢ NGƯỜI DÙNG BẰNG AI GEMINI - DỰ ÁN LINKVERSE
+
+## 1. LỖI ĐĂNG NHẬP / ĐĂNG KÝ
+### 🔹 Lỗi: Không thể đăng nhập
+#### Cách xử lý:
+- Kiểm tra xem email/mật khẩu đã nhập đúng chưa.
+- Nếu quên mật khẩu, hãy sử dụng tính năng **"Quên mật khẩu"** để đặt lại.
+- Nếu vẫn không thể đăng nhập, hãy thử đăng nhập bằng phương thức khác (Google, Facebook).
+- Kiểm tra trạng thái tài khoản: Nếu tài khoản bị vô hiệu hóa, hãy liên hệ **hỗ trợ**.
+
+### 🔹 Lỗi: Không nhận được email xác thực
+#### Cách xử lý:
+- Kiểm tra hộp thư spam/thư rác.
+- Đợi vài phút và kiểm tra lại.
+- Nếu vẫn không nhận được, hãy nhấn **Gửi lại mã xác nhận**.
+
+### 🔹 Lỗi: Không thể tạo tài khoản mới
+#### Cách xử lý:
+- Kiểm tra xem email hoặc số điện thoại có bị sử dụng trước đó không.
+- Đảm bảo nhập đúng mã OTP được gửi về điện thoại hoặc email.
+- Thử đăng ký bằng trình duyệt khác hoặc xóa cache trình duyệt.
+
+---
+
+## 2. LỖI VỀ BÀI VIẾT / BẢNG TIN
+### 🔹 Lỗi: Không thể đăng bài viết
+#### Cách xử lý:
+- Kiểm tra kết nối internet.
+- Xóa cache trình duyệt và thử lại.
+- Kiểm tra xem bài viết có chứa nội dung vi phạm không.
+
+### 🔹 Lỗi: Bảng tin không cập nhật
+#### Cách xử lý:
+- Thử tải lại trang (F5).
+- Kiểm tra kết nối mạng.
+- Nếu vẫn không hiển thị bài viết mới, hãy thử **đăng xuất** và đăng nhập lại.
+
+### 🔹 Lỗi: Không thể chỉnh sửa bài viết
+#### Cách xử lý:
+- Kiểm tra xem bài viết có bị giới hạn chỉnh sửa không.
+- Nếu bài viết đã được chia sẻ rộng rãi, một số thay đổi có thể bị hạn chế.
+- Thử xóa cache trình duyệt và đăng nhập lại.
+
+---
+
+## 3. LỖI CHAT / TIN NHẮN
+### 🔹 Lỗi: Không gửi được tin nhắn
+#### Cách xử lý:
+- Kiểm tra xem bạn đã bị chặn bởi người nhận hay không.
+- Đảm bảo tài khoản của bạn không bị hạn chế gửi tin nhắn.
+- Kiểm tra kết nối mạng.
+
+### 🔹 Lỗi: Không nhận được tin nhắn
+#### Cách xử lý:
+- Kiểm tra xem đối phương đã gửi tin chưa.
+- Kiểm tra cài đặt quyền riêng tư (có chặn tin nhắn không?).
+- Kiểm tra hộp thư "Tin nhắn chờ".
+
+### 🔹 Lỗi: Tin nhắn bị lỗi định dạng hoặc không hiển thị đúng
+#### Cách xử lý:
+- Kiểm tra lại nội dung tin nhắn (có chứa ký tự đặc biệt hoặc lỗi không?).
+- Nếu gửi ảnh/video không thành công, thử giảm kích thước file.
+
+---
+
+## 4. LỖI TÀI KHOẢN / QUẢN LÝ MẬT KHẨU
+### 🔹 Lỗi: Không thể thay đổi mật khẩu
+#### Cách xử lý:
+- Đảm bảo mật khẩu mới có ít nhất 8 ký tự, bao gồm số, chữ và ký tự đặc biệt.
+- Kiểm tra xem bạn đã nhập đúng mật khẩu cũ chưa.
+
+### 🔹 Lỗi: Tài khoản bị khóa
+#### Cách xử lý:
+- Nếu tài khoản bị khóa tạm thời, hãy đợi **24 giờ** rồi thử lại.
+- Nếu bị khóa vĩnh viễn, hãy liên hệ **hỗ trợ** để biết lý do.
+
+---
+
+## 5. LỖI VỀ QUYỀN RIÊNG TƯ / BẢO MẬT
+### 🔹 Lỗi: Không thể thay đổi cài đặt quyền riêng tư
+#### Cách xử lý:
+- Đảm bảo bạn có quyền thay đổi (admin page, group).
+- Nếu hệ thống báo lỗi, thử lại sau vài phút.
+
+### 🔹 Lỗi: Phát hiện đăng nhập từ thiết bị lạ
+#### Cách xử lý:
+- Kiểm tra lịch sử đăng nhập.
+- Nếu không phải bạn đăng nhập, hãy đổi mật khẩu ngay lập tức.
+- Bật **Xác thực hai yếu tố (2FA)** để tăng bảo mật.
+
+---
+
+## 6. LỖI THANH TOÁN VNPay
+### 🔹 Lỗi: Không thể thực hiện giao dịch
+#### Cách xử lý:
+- Kiểm tra số dư tài khoản.
+- Kiểm tra thông tin thanh toán (số thẻ, mã CVV).
+- Nếu lỗi tiếp tục xảy ra, liên hệ **hỗ trợ VNPay**.
+
+### 🔹 Lỗi: Giao dịch bị hủy hoặc không thành công
+#### Cách xử lý:
+- Đảm bảo rằng bạn đã xác nhận giao dịch đúng cách.
+- Kiểm tra trạng thái giao dịch trong lịch sử thanh toán.
+
+---
+
+## 7. LỖI GROUPS & PAGES
+### 🔹 Lỗi: Không thể tạo nhóm hoặc trang
+#### Cách xử lý:
+- Kiểm tra xem bạn có vượt quá giới hạn số lượng nhóm/trang không.
+- Kiểm tra xem nội dung tên và mô tả có vi phạm tiêu chuẩn cộng đồng không.
+
+### 🔹 Lỗi: Không thể thêm thành viên vào nhóm
+#### Cách xử lý:
+- Kiểm tra xem nhóm có cài đặt hạn chế hay không.
+- Đảm bảo người bạn muốn thêm không bị chặn trong nhóm.
+
+---
+
+## 8. LỖI DỊCH NGÔN NGỮ
+### 🔹 Lỗi: Không thể dịch bài viết
+#### Cách xử lý:
+- Kiểm tra kết nối mạng.
+- Đảm bảo ngôn ngữ gốc của bài viết được hỗ trợ bởi hệ thống dịch.
+
+---
+
+## 9. LỖI AI PHÂN TÍCH CẢM XÚC / KIỂM DUYỆT
+### 🔹 Lỗi: AI gắn cờ bài viết sai
+#### Cách xử lý:
+- Yêu cầu xem xét lại nếu bạn cho rằng bài viết không vi phạm chính sách.
+- Cung cấp phản hồi để AI học cách phân tích tốt hơn.
+
+---
+
+## 10. LỖI HIỆU SUẤT / ỨNG DỤNG CHẬM
+### 🔹 Lỗi: Ứng dụng bị treo, không phản hồi
+#### Cách xử lý:
+- Đóng ứng dụng và mở lại.
+- Xóa cache và thử lại.
+- Cập nhật phiên bản mới nhất.
+
+### 🔹 Lỗi: Ứng dụng chạy chậm
+#### Cách xử lý:
+- Kiểm tra tốc độ mạng.
+- Xóa bộ nhớ cache và tắt các ứng dụng chạy nền.
+
+---
+
+## 🎯 KẾT LUẬN:
+- Nếu không thể tự khắc phục lỗi, hãy liên hệ với **bộ phận hỗ trợ** của LinkVerse để được giải quyết nhanh nhất.
+- AI Gemini có thể hướng dẫn bạn thực hiện các bước trên và kiểm tra lỗi cơ bản.
+
+---
+
+## 11. LỖI TÌM KIẾM (SEARCH)
+### 🔹 Lỗi: Không thể tìm kiếm người dùng hoặc nội dung
+#### Cách xử lý:
+- Kiểm tra xem bạn đã nhập đúng từ khóa chưa.
+- Thử sử dụng bộ lọc tìm kiếm để có kết quả chính xác hơn.
+- Kiểm tra xem nội dung cần tìm có bị xóa hoặc ẩn bởi quyền riêng tư không.
+
+### 🔹 Lỗi: Kết quả tìm kiếm không hiển thị đúng
+#### Cách xử lý:
+- Làm mới trang và thử lại.
+- Kiểm tra trạng thái kết nối mạng.
+- Nếu lỗi vẫn tiếp diễn, thử đăng xuất và đăng nhập lại.
+
+---
+
+## 12. LỖI KẾT NỐI VÀ HỆ THỐNG
+### 🔹 Lỗi: Máy chủ bị lỗi hoặc không thể truy cập
+#### Cách xử lý:
+- Kiểm tra xem hệ thống có thông báo bảo trì không.
+- Kiểm tra kết nối mạng.
+- Thử lại sau vài phút.
+
+### 🔹 Lỗi: Không nhận được thông báo
+#### Cách xử lý:
+- Kiểm tra cài đặt thông báo trên ứng dụng.
+- Đảm bảo trình duyệt hoặc điện thoại không chặn thông báo từ LinkVerse.
+
+---
+
+## 13. LỖI LIÊN QUAN ĐẾN TRẢI NGHIỆM NGƯỜI DÙNG
+### 🔹 Lỗi: Không thể thay đổi ảnh đại diện hoặc ảnh bìa
+#### Cách xử lý:
+- Kiểm tra định dạng file (JPEG, PNG, hoặc GIF được hỗ trợ).
+- Đảm bảo kích thước ảnh không quá lớn.
+- Thử tải lên lại với một file ảnh khác.
+
+### 🔹 Lỗi: Giao diện hiển thị không đúng
+#### Cách xử lý:
+- Kiểm tra kích thước màn hình và tỷ lệ hiển thị của trình duyệt.
+- Thử xóa cache và tải lại trang.
+
+---
+
+## 14. LỖI LIÊN QUAN ĐẾN AI & MACHINE LEARNING
+### 🔹 Lỗi: AI không phản hồi hoặc đưa ra kết quả sai
+#### Cách xử lý:
+- Kiểm tra kết nối đến hệ thống AI.
+- Cung cấp phản hồi để AI có thể học và cải thiện độ chính xác.
+
+### 🔹 Lỗi: AI không thể nhận diện hình ảnh hoặc văn bản
+#### Cách xử lý:
+- Đảm bảo hình ảnh hoặc văn bản có độ phân giải đủ tốt để AI có thể phân tích.
+- Kiểm tra xem hệ thống AI có bị gián đoạn không.
+
+---
+
+## 🎯 KẾT LUẬN:
+- Nếu không thể tự khắc phục lỗi, hãy liên hệ với **bộ phận hỗ trợ** của LinkVerse để được giải quyết nhanh nhất.
+- AI Gemini có thể hướng dẫn bạn thực hiện các bước trên và kiểm tra lỗi cơ bản.
+
+## 📞 LIÊN HỆ HỖ TRỢ:
+📧 **Email:** duongng.dn@gmail.com  
+🌐 **Website:** [www.gitted.me](http://www.gitted.me)
+
+
