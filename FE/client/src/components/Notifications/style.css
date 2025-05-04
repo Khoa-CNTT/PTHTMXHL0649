@@ -1,0 +1,5 @@
+.custom-menu .MuiList-root{
+    @apply bg-bgStandard;
+    border-radius: 20px;
+    margin-top: 12px;
+}
